@@ -12,6 +12,7 @@ A Streamlit application that allows users to interact with SQL databases using n
 - Real-time streaming responses
 - Conversation history management
 - Secure credential handling
+- Shows every step taken by model
 
 ## Prerequisites
 
