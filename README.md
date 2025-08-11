@@ -3,7 +3,7 @@
 A Streamlit application that allows users to interact with SQL databases using natural language queries powered by LangChain and Groq LLM.
 
 ## Demo
-[!demo](demo/ChatSQL_demo.gif)
+![demo](demo/ChatSQL_demo.gif)
 ## Features
 
 - Chat interface for querying SQL databases
