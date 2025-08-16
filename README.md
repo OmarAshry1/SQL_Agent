@@ -3,7 +3,7 @@
 A Streamlit application that allows users to interact with SQL databases using natural language queries powered by LangChain and Groq LLM.
 
 ## Link
-![Click Here](https://sql-agent-ai.streamlit.app/)
+![Click Here](https://sql-agent-ai.streamlit.app)
 ## Demo
 ![demo](demo/ChatSQL_demo.gif)
 ## Features
